@@ -1,5 +1,5 @@
 
-###  [WRRench](https://popugune.github.io/WRRench/)
+###  [WRRench](https://popuguytheparrot.github.io/WRRench/)
 
 
-###  [Blog](https://popugune.github.io/Blog/)
+###  [Blog](https://popuguytheparrot.github.io/Blog/)
